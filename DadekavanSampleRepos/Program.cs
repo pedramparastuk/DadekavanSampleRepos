@@ -9,7 +9,8 @@ namespace DadekavanSampleRepos
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Dadekavan Repos Sample\nGithub");
+            Console.ReadLine();
         }
     }
 }
